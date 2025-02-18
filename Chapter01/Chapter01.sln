@@ -7,13 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCS", "HelloCS\HelloCS.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutMyEnvironment", "AboutMyEnvironment\AboutMyEnvironment.csproj", "{17CFF5B3-64A8-4183-BC18-BF3A33EDEB9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vocabulary", "..\Chapter02\Vocabulary\Vocabulary.csproj", "{FCE2C845-D27A-467A-9816-BDF1B63C092D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{5E3DDDBA-B657-4A4B-B663-3420A89DAE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -24,5 +23,12 @@ Global
 		{17CFF5B3-64A8-4183-BC18-BF3A33EDEB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17CFF5B3-64A8-4183-BC18-BF3A33EDEB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17CFF5B3-64A8-4183-BC18-BF3A33EDEB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE2C845-D27A-467A-9816-BDF1B63C092D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE2C845-D27A-467A-9816-BDF1B63C092D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE2C845-D27A-467A-9816-BDF1B63C092D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE2C845-D27A-467A-9816-BDF1B63C092D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
