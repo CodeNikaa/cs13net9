@@ -1,0 +1,15 @@
+/home/codias/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers
+/home/codias/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.deps.json
+/home/codias/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.runtimeconfig.json
+/home/codias/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.dll
+/home/codias/cs13net9/Chapter02/Numbers/bin/Debug/net8.0/Numbers.pdb
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfoInputs.cache
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.AssemblyInfo.cs
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.csproj.CoreCompileInputs.cache
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.sourcelink.json
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.dll
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/refint/Numbers.dll
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.pdb
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/Numbers.genruntimeconfig.cache
+/home/codias/cs13net9/Chapter02/Numbers/obj/Debug/net8.0/ref/Numbers.dll
