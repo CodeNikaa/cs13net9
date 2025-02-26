@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEuqOD4R5dvwbhm6OzwF8WBbtDA3vuVrjjgsk8NvN83gx3J/tfQvecm97OW1f+8FSbCTQSmXdh89N/4NCW+Arw==",
+  "success": true,
+  "projectFilePath": "/home/codias/cs13net9/Chapter02/Variables/ExploringConsole/ExploringConsole.fsproj",
+  "expectedPackageFiles": [
+    "/home/codias/.nuget/packages/fsharp.core/8.0.102/fsharp.core.8.0.102.nupkg.sha512"
+  ],
+  "logs": []
+}

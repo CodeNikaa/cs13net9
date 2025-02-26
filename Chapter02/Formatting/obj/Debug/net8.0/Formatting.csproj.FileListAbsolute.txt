@@ -1,0 +1,15 @@
+/home/codias/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting
+/home/codias/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.deps.json
+/home/codias/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.runtimeconfig.json
+/home/codias/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.dll
+/home/codias/cs13net9/Chapter02/Formatting/bin/Debug/net8.0/Formatting.pdb
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.GeneratedMSBuildEditorConfig.editorconfig
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfoInputs.cache
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.AssemblyInfo.cs
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.csproj.CoreCompileInputs.cache
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.sourcelink.json
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.dll
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/refint/Formatting.dll
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.pdb
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/Formatting.genruntimeconfig.cache
+/home/codias/cs13net9/Chapter02/Formatting/obj/Debug/net8.0/ref/Formatting.dll

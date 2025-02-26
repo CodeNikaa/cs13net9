@@ -1,0 +1,15 @@
+/home/codias/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments
+/home/codias/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.deps.json
+/home/codias/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.runtimeconfig.json
+/home/codias/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.dll
+/home/codias/cs13net9/Chapter02/Arguments/bin/Debug/net8.0/Arguments.pdb
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.GeneratedMSBuildEditorConfig.editorconfig
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfoInputs.cache
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.AssemblyInfo.cs
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.csproj.CoreCompileInputs.cache
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.sourcelink.json
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.dll
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/refint/Arguments.dll
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.pdb
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/Arguments.genruntimeconfig.cache
+/home/codias/cs13net9/Chapter02/Arguments/obj/Debug/net8.0/ref/Arguments.dll

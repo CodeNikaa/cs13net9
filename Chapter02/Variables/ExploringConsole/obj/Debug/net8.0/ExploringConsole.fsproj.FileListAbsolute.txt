@@ -1,0 +1,5 @@
+/home/codias/cs13net9/Chapter02/Variables/ExploringConsole/obj/Debug/net8.0/ExploringConsole.fsproj.AssemblyReference.cache
+/home/codias/cs13net9/Chapter02/Variables/ExploringConsole/obj/Debug/net8.0/ExploringConsole.AssemblyInfoInputs.cache
+/home/codias/cs13net9/Chapter02/Variables/ExploringConsole/obj/Debug/net8.0/ExploringConsole.AssemblyInfo.fs
+/home/codias/cs13net9/Chapter02/Variables/ExploringConsole/obj/Debug/net8.0/ExploringConsole.fsproj.CoreCompileInputs.cache
+/home/codias/cs13net9/Chapter02/Variables/ExploringConsole/obj/Debug/net8.0/ExploringConsole.sourcelink.json
